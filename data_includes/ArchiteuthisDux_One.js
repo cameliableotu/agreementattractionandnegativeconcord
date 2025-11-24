@@ -191,12 +191,12 @@ var items = [
 [["ATTRAGREEADJROMANIAN-mismatchneghead",12], "EPDashedSentence", {s:"+"}, DS, {s:"Niciun piure de lângă macrouri nu",as: [['s','au'],['k','are']]}],
 
 
-[["ATTRAGREEADJROMANIAN-matchBN",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangii mereu",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchBN",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangiu mereu",as: [['s','au'],['k','are']]}],
-[["ATTRAGREEADJROMANIAN-matchDPInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangiii locali mereu",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchDPInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangiul local mereu",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-matchDPHeadInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii gustoşi de lângă hangiii locali mereu",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii  gustoşi de lângă hangiul local mereu",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-matchpos",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangii mereu",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-mismatchpos",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangiu mereu",as: [['s','au'],['k','are']]}],
+[["ATTRAGREEADJROMANIAN-matchneginterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangiii locali mereu",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-mismatchneginterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangiul local mereu",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-matchneghead",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii gustoşi de lângă hangiii locali mereu",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-mismatchneghead",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii gustoşi de lângă hangiul local mereu",as: [['s','au'],['k','are']]}], 
 
  
 [["ATTRAGREEADJROMANIAN-matchBN",14], "EPDashedSentence", {s:"+"}, DS, {s:"Buştenii de lângă eroi mereu",as: [['s','au'],['k','are']]}], 
